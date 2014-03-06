@@ -62,7 +62,7 @@ public class PartETest
         exception.expectMessage("There's no val in values");
         obj.binarySearch(2 * i + 1, newInts);
       }// for
-  }
+  }//testBinarySearchForOddValues()
 }// PartETest
 
 
